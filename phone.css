@@ -1,0 +1,30 @@
+@media screen and (max-width: 475px){
+    .first{
+        padding: 20px;
+    }
+
+    .spread{
+        width: 100%;
+    }
+
+    .bird{
+        width: 75%;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .first{
+        padding: 20px;
+    }
+
+    .spread{
+        width: 100%;
+    }
+
+    .bird{
+        text-align: center;
+        width: 75%;
+    }
+
+    
+}
